@@ -16,5 +16,8 @@
     "url": "https://github.com/jdj-design/server/issues"
   },
   "homepage": "https://github.com/jdj-design/server#readme",
-  "description": ""
+  "description": "",
+  "dependencies": {
+    "express": "^4.21.2"
+  }
 }
